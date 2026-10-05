@@ -1,0 +1,12 @@
+{
+  "name": "absensi-app-2026",
+  "version": "1.0.0",
+  "description": "Aplikasi Absensi & Cek Kesehatan Interaktif 2026",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
